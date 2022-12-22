@@ -1,0 +1,14 @@
+.navbar-bg {
+    background-color: #FFC017;
+}
+
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+.links a{
+    text-decoration: none;
+    margin-left: 5px;
+    padding: 8px;
+    color: gray;
+}
